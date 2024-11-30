@@ -1,0 +1,8 @@
+{
+    "default_rpc_list": [
+        "https://api.mainnet-beta.solana.com"
+    ],
+    "submit_rpc_list": [
+        "https://api.mainnet-beta.solana.com"
+    ]
+}
